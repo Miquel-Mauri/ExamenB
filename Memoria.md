@@ -12,4 +12,14 @@ git init
 
 #### 4. Crea una carpeta llamada contenidos y dentro de esta carpeta dos ficheros llamados
 
-#### 5. Pasa los ficheros y directorios a preparado
+#### 5. Pasa los ficheros y directorios a preparado  
+git add --all  
+
+#### 6. Confirma los ficheros con un commit “Inicial commit”  
+git commit -m "Inicial commit"  
+
+#### 7. Mira el estado del proyecto  
+git status  
+
+#### 8. Modifica el texto del ultimo commit poniendo “ Contenidos 1,2 e índice“  
+
