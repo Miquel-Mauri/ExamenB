@@ -43,4 +43,4 @@ git checkout --
 
 ### 15. Crea un repositorio público en tu GITHUB y haz un push de todo el proyecto.  
 git remote add origin https://github.com/Miquel-Mauri/ExamenB.git  
-git push -u origin main
+git push -all
